@@ -1,0 +1,648 @@
+{
+  "items" : [
+    {
+      "path" : "img/ab_titan/Three stars_1.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1709773126,
+      "checksum" : "7a842e105f8696d3391625c482ee24e8",
+      "fileSize" : 213284300
+    },
+    {
+      "path" : "js/plugins/animsition.min.js",
+      "mimeType" : "text/javascript",
+      "lastUpdated" : 1468881824,
+      "checksum" : "a0ddf9fddbe7c04867860fd24eb6c652",
+      "fileSize" : 5622
+    },
+    {
+      "path" : ".DS_Store",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1710213456,
+      "checksum" : "64083a026c85b266a08d3a746737f70a",
+      "fileSize" : 10244
+    },
+    {
+      "path" : "img/homepage/jersey_nerds.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1673076399,
+      "checksum" : "b9a6a01d2c078b3569d08f0fe84ab35f",
+      "fileSize" : 18424
+    },
+    {
+      "path" : "ab-titan.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1685526006,
+      "checksum" : "649a136694365ad8531d9b5dc107ef1f",
+      "fileSize" : 3957
+    },
+    {
+      "path" : "img/whos_jt/brand guide/Logo guidelines_4.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674185774,
+      "checksum" : "1e34c46b8205445d0dfb3f93916e38d9",
+      "fileSize" : 213802
+    },
+    {
+      "path" : "fonts/fontello.woff",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1471044318,
+      "checksum" : "b8b125b6972797a56e374fd4cbcaa1f6",
+      "fileSize" : 4272
+    },
+    {
+      "path" : "blog.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1471152924,
+      "checksum" : "7b984c42d8e57a5f94202c7a9acaa1f5",
+      "fileSize" : 9024
+    },
+    {
+      "path" : "img/ab_titan/Assists.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1677267369,
+      "checksum" : "3c66fd3a7561cedcf14879af8964e184",
+      "fileSize" : 97059297
+    },
+    {
+      "path" : "img/ab_titan/Penalty Kill.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1677267456,
+      "checksum" : "402fa6a9ed7647fbf0cc3ad1f379c82f",
+      "fileSize" : 98680353
+    },
+    {
+      "path" : "phf-bundling-stats.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1685534028,
+      "checksum" : "290ec270cea23b7601b2e51d77612c41",
+      "fileSize" : 16880
+    },
+    {
+      "path" : "img/homepage/shu_athletics.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1673075896,
+      "checksum" : "60e5ac51433a6bcf22a0b2bc513953f5",
+      "fileSize" : 14388085
+    },
+    {
+      "path" : "img/ab_titan/go titan go 2.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1677267383,
+      "checksum" : "6e3c96a925c45f507aeaa8c3f45b9489",
+      "fileSize" : 96203296
+    },
+    {
+      "path" : "img/ab_titan/Three stars.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1677267499,
+      "checksum" : "03b911bb4ea7232f1c9447b7d3aad4be",
+      "fileSize" : 97574793
+    },
+    {
+      "path" : "img/JNM/Artboard3.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1677234765,
+      "checksum" : "851989627505712d16da8bd418b89a81",
+      "fileSize" : 62324
+    },
+    {
+      "path" : "img/whos_jt/.DS_Store",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1674202205,
+      "checksum" : "eda04dc69897dc8e451444e09e310fe8",
+      "fileSize" : 6148
+    },
+    {
+      "path" : "img/homepage/titan.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1673076139,
+      "checksum" : "8c2af48dd9e085a802f570efbe850d9e",
+      "fileSize" : 15572153
+    },
+    {
+      "path" : "img/homepage/t6.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1673076399,
+      "checksum" : "7c4c9821847d7c4fef904fc4aff74737",
+      "fileSize" : 38887
+    },
+    {
+      "path" : "img/homepage/phoenix_seniorshow.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1673076399,
+      "checksum" : "ce17cc3a5f8755c31cfd37ac598dfcce",
+      "fileSize" : 47766
+    },
+    {
+      "path" : "img/homepage/.DS_Store",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1674461294,
+      "checksum" : "1dfbb2e4e0b0c98b3f3b710820511741",
+      "fileSize" : 6148
+    },
+    {
+      "path" : "img/homepage/phf.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1673076399,
+      "checksum" : "6cf43ae9d31df9c8816a7e9ece7293ff",
+      "fileSize" : 64866
+    },
+    {
+      "path" : "img/whos_jt/brand guide/Logo guidelines_1.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674185774,
+      "checksum" : "4b0d24f983d403d5498175f1cb642787",
+      "fileSize" : 174783
+    },
+    {
+      "path" : "img/.DS_Store",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1685532184,
+      "checksum" : "00813489669d4415b19568407d49766f",
+      "fileSize" : 10244
+    },
+    {
+      "path" : "css/magnific-popup.min.css",
+      "mimeType" : "text/css",
+      "lastUpdated" : 1468287134,
+      "checksum" : "fa10e481239e720ff6a5ca15e398fb21",
+      "fileSize" : 5204
+    },
+    {
+      "path" : "css/bootstrap.min.css",
+      "mimeType" : "text/css",
+      "lastUpdated" : 1467592116,
+      "checksum" : "40feefbceae4db16a46561f119ec3c33",
+      "fileSize" : 17564
+    },
+    {
+      "path" : "img/ab_titan/Powerplay.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1677267470,
+      "checksum" : "9d17b141a4ef4ff8f636ce7ed03f266e",
+      "fileSize" : 98501862
+    },
+    {
+      "path" : "img/whos_jt/brand guide/Logo guidelines_5.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674185774,
+      "checksum" : "0aef781eddb629ded2fb335c7dbff395",
+      "fileSize" : 328834
+    },
+    {
+      "path" : "img/JNM/Artboard2.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1677234765,
+      "checksum" : "092a4c515b5e07894ae261ec18abae52",
+      "fileSize" : 31340
+    },
+    {
+      "path" : "img/logo.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674257924,
+      "checksum" : "963e5ad1b25103ceb1f04dd2d50779e6",
+      "fileSize" : 7431
+    },
+    {
+      "path" : "resume.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1677786435,
+      "checksum" : "5d180e57ddf7608eeb5229eeb8983869",
+      "fileSize" : 7132
+    },
+    {
+      "path" : "connecticut-whale.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1685526014,
+      "checksum" : "3c138390bfae2167b788473e92eb5a16",
+      "fileSize" : 7846
+    },
+    {
+      "path" : "img/favicon.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674279161,
+      "checksum" : "1fa941efa6b274e02a76d82a3488cebe",
+      "fileSize" : 7973
+    },
+    {
+      "path" : "img/ab_titan/.DS_Store",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1677403385,
+      "checksum" : "c4728a85cdaa87f88e7e19a79da244f8",
+      "fileSize" : 6148
+    },
+    {
+      "path" : "js/plugins/isotope.pkgd.min.js",
+      "mimeType" : "text/javascript",
+      "lastUpdated" : 1467418352,
+      "checksum" : "c09fe8844fcbb765121f3805619aadd7",
+      "fileSize" : 34695
+    },
+    {
+      "path" : "img/homepage/shu_lax.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1673076376,
+      "checksum" : "7b09cc383b6194bf0b0688079f2ec4f8",
+      "fileSize" : 13251457
+    },
+    {
+      "path" : "blog-single.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1471152924,
+      "checksum" : "5d234a595515317e92975a3af2e4ae50",
+      "fileSize" : 9835
+    },
+    {
+      "path" : "js/plugins/imagesloaded.pkgd.min.js",
+      "mimeType" : "text/javascript",
+      "lastUpdated" : 1467419406,
+      "checksum" : "110588febd10bf518aa9b8059e882c23",
+      "fileSize" : 5413
+    },
+    {
+      "path" : "contact.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1674298697,
+      "checksum" : "c777b06fb7722b7451449f94bb0a10ae",
+      "fileSize" : 4874
+    },
+    {
+      "path" : "img/whos_jt/jt0.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674214856,
+      "checksum" : "c183cfb562880bb2aabaf81fb2ef117e",
+      "fileSize" : 55840
+    },
+    {
+      "path" : "img/homepage/nwhl_lake_placid.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1673076399,
+      "checksum" : "8dbe81aefb1a141ad776770ad08d3232",
+      "fileSize" : 106131
+    },
+    {
+      "path" : "img/whos_jt/jt1.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674296052,
+      "checksum" : "424182b446d5e18947a0834bb3876fe0",
+      "fileSize" : 36593
+    },
+    {
+      "path" : "img/homepage/phoenix_seniorproject.jpeg",
+      "mimeType" : "image/jpeg",
+      "lastUpdated" : 1673129306,
+      "checksum" : "f7910ae9bc846a11f78cc2edc434504d",
+      "fileSize" : 403493
+    },
+    {
+      "path" : "img/whos_jt/jt2.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674198313,
+      "checksum" : "cd1f1fad8a09da03640906bdce216a28",
+      "fileSize" : 24670
+    },
+    {
+      "path" : "img/whos_jt/brand guide/Logo guidelines_2.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674185774,
+      "checksum" : "1b0955f0ea118f30a50c5498f1cae11f",
+      "fileSize" : 164976
+    },
+    {
+      "path" : "img/whos_jt/jt3.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674198313,
+      "checksum" : "ff2b71364b0efae5fae3ed3b83934589",
+      "fileSize" : 35668
+    },
+    {
+      "path" : "js/plugins/jquery-2.2.4.min.js",
+      "mimeType" : "text/javascript",
+      "lastUpdated" : 1467515972,
+      "checksum" : "2f6b11a7e914718e0290410e85366fe9",
+      "fileSize" : 85578
+    },
+    {
+      "path" : "img/JNM/Artboard1.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1677234765,
+      "checksum" : "fbed31f577a6f362d98903e23a6c2330",
+      "fileSize" : 32107
+    },
+    {
+      "path" : "img/phoenix_fantasy/.DS_Store",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1674007243,
+      "checksum" : "df1f994e5b95ae7cd8f9af03dbcef4d4",
+      "fileSize" : 6148
+    },
+    {
+      "path" : "img/phoenix_fantasy/phx_colors.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674198303,
+      "checksum" : "06c2b52230640fdfb631b4d9c3e2bf2f",
+      "fileSize" : 1821
+    },
+    {
+      "path" : "img/whos_jt/jt4.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674198313,
+      "checksum" : "6b0064b2b65439084cbcf089b1a10e8f",
+      "fileSize" : 35814
+    },
+    {
+      "path" : "css/fontello.min.css",
+      "mimeType" : "text/css",
+      "lastUpdated" : 1471044368,
+      "checksum" : "b89d95f276285d40e38c0b2b5392a3f9",
+      "fileSize" : 1007
+    },
+    {
+      "path" : "img/whos_jt/jt5.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674198313,
+      "checksum" : "f7dbc4d66d524132d3e46c87b5653c4d",
+      "fileSize" : 117673
+    },
+    {
+      "path" : "css/animsition.min.css",
+      "mimeType" : "text/css",
+      "lastUpdated" : 1468883162,
+      "checksum" : "400ae707bdaea155bf074514ae3e51f4",
+      "fileSize" : 28275
+    },
+    {
+      "path" : "img/homepage/whos_jt.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1673076399,
+      "checksum" : "32d403001060582b2ca8172d017609d9",
+      "fileSize" : 70607
+    },
+    {
+      "path" : "img/whos_jt/brand guide/Logo guidelines_6.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674185774,
+      "checksum" : "5a3aeee652cee43fe1fa9ec661c96002",
+      "fileSize" : 291434
+    },
+    {
+      "path" : "img/whos_jt/jt6.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674198313,
+      "checksum" : "f368844b95b2b5d9a4e13c4666fbfdf4",
+      "fileSize" : 89301
+    },
+    {
+      "path" : "project-page.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1471152924,
+      "checksum" : "9ac23d084720398bf569057dc3973117",
+      "fileSize" : 6229
+    },
+    {
+      "path" : "fonts/fontello.eot",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1471044318,
+      "checksum" : "2d615d1d23febf8d8fce0db545d8eee2",
+      "fileSize" : 6976
+    },
+    {
+      "path" : "img/phoenix_fantasy/phx_secondary.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674198303,
+      "checksum" : "3b1acc243122370dd39d6076fc6e8e9c",
+      "fileSize" : 31906
+    },
+    {
+      "path" : "img/ab_titan/go titan go.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1677267398,
+      "checksum" : "209329fce4d533e627685ad3c8cb5c61",
+      "fileSize" : 96893419
+    },
+    {
+      "path" : "img/homepage/phoenix_22_23.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1673076399,
+      "checksum" : "0a81b79c89024c18f2e28dca50140440",
+      "fileSize" : 27207
+    },
+    {
+      "path" : "img/phoenix_fantasy/phx_primary.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674198303,
+      "checksum" : "8e7c771d1277279bf3a8926a2affddae",
+      "fileSize" : 24556
+    },
+    {
+      "path" : "whos-jt.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1685526021,
+      "checksum" : "22debf45f89ee2e355d93f047db86e06",
+      "fileSize" : 6026
+    },
+    {
+      "path" : "about.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1674298668,
+      "checksum" : "0e3d06db4aceedf4629a8ca899e5d1cd",
+      "fileSize" : 3109
+    },
+    {
+      "path" : "js/plugins/bootstrap.min.js",
+      "mimeType" : "text/javascript",
+      "lastUpdated" : 1467592116,
+      "checksum" : "0b114c3585b2ecd4e5983d64a09a2068",
+      "fileSize" : 5512
+    },
+    {
+      "path" : "js/functions.js",
+      "mimeType" : "text/javascript",
+      "lastUpdated" : 1471220574,
+      "checksum" : "219414c31fee85e65d4b2c7ea9c7670d",
+      "fileSize" : 4126
+    },
+    {
+      "path" : "blog-alt.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1471152924,
+      "checksum" : "d8c0998e75bbedab24cfb6c5440c52bf",
+      "fileSize" : 11501
+    },
+    {
+      "path" : "img/homepage/brnd_studios.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1673076399,
+      "checksum" : "9d3028136ad3a64e08a458c70b932553",
+      "fileSize" : 17429
+    },
+    {
+      "path" : "pit-phoenix-fantasy.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1685525996,
+      "checksum" : "feb19c41476716f14462a74ed5f26208",
+      "fileSize" : 5691
+    },
+    {
+      "path" : "img/ab_titan/noise 2.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1677267427,
+      "checksum" : "c61d494dcccba2464a7473e18d15a572",
+      "fileSize" : 98382180
+    },
+    {
+      "path" : "index.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1685530419,
+      "checksum" : "2413009626aafdfafacce5c22e47cf7d",
+      "fileSize" : 19318
+    },
+    {
+      "path" : "fonts/fontello.ttf",
+      "mimeType" : "font/ttf",
+      "lastUpdated" : 1471044318,
+      "checksum" : "65765732e05ac4d575c89d7c450b393c",
+      "fileSize" : 6808
+    },
+    {
+      "path" : "img/homepage/phf_animation.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1673076152,
+      "checksum" : "d1f74595f820331d539cfcb8a728ba0c",
+      "fileSize" : 16751157
+    },
+    {
+      "path" : "fonts/fontello.svg",
+      "mimeType" : "image/svg+xml",
+      "lastUpdated" : 1471044318,
+      "checksum" : "25933538abeb66911cc5680ed5e7253c",
+      "fileSize" : 3705
+    },
+    {
+      "path" : "img/ab_titan/starting lineup.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1677267484,
+      "checksum" : "1577e7eb3e2f41aa4d6ecdaa48c6ae26",
+      "fileSize" : 99002534
+    },
+    {
+      "path" : "img/whos_jt/brand guide/Logo guidelines_3.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674185774,
+      "checksum" : "f1c6158136d77a10f37ee4421b5cd544",
+      "fileSize" : 200657
+    },
+    {
+      "path" : "img/ab_titan/goal.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1677267412,
+      "checksum" : "bdbae6ba3bb349a8440473fd4342dccc",
+      "fileSize" : 96151027
+    },
+    {
+      "path" : "project-page-alt.html",
+      "mimeType" : "text/html",
+      "lastUpdated" : 1471152924,
+      "checksum" : "0886d73aab0c835d264f0319df68de8a",
+      "fileSize" : 5244
+    },
+    {
+      "path" : "img/B.Poe_Resume.pdf",
+      "mimeType" : "application/pdf",
+      "lastUpdated" : 1677786314,
+      "checksum" : "ededf93e3c9dd31fb738da50997f8d79",
+      "fileSize" : 160957
+    },
+    {
+      "path" : "fonts/fontello.woff2",
+      "mimeType" : "application/octet-stream",
+      "lastUpdated" : 1471044318,
+      "checksum" : "085f297735372907c4234702ae47b5a7",
+      "fileSize" : 3572
+    },
+    {
+      "path" : "img/homepage/force.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1673076399,
+      "checksum" : "e2fa9da0e93fc4b00ee9247720ea12cf",
+      "fileSize" : 20941
+    },
+    {
+      "path" : "img/me.jpg",
+      "mimeType" : "image/jpeg",
+      "lastUpdated" : 1674216007,
+      "checksum" : "b8a7c90ab4d6227505108bf946c798a7",
+      "fileSize" : 16636349
+    },
+    {
+      "path" : "_site.json",
+      "mimeType" : "application/json",
+      "lastUpdated" : 1710213631,
+      "checksum" : "7bde9bf5860c5b61422d5627cdd7c601",
+      "fileSize" : 18814
+    },
+    {
+      "path" : "img/homepage/force.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1674460931,
+      "checksum" : "a162ff1babf4e12a93440bffad6256a5",
+      "fileSize" : 8325500
+    },
+    {
+      "path" : "js/plugins/jquery.magnific-popup.min.js",
+      "mimeType" : "text/javascript",
+      "lastUpdated" : 1468287096,
+      "checksum" : "b37d7edf99565d3858eaa1ad80df3cff",
+      "fileSize" : 20219
+    },
+    {
+      "path" : "js/plugins.min.js",
+      "mimeType" : "text/javascript",
+      "lastUpdated" : 1471152402,
+      "checksum" : "3ac3e04e10a889e0669fa36f11831348",
+      "fileSize" : 157044
+    },
+    {
+      "path" : "img/ab_titan/noise.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1677267442,
+      "checksum" : "855123b8d2696652ff29bd6dffd44f2e",
+      "fileSize" : 101127616
+    },
+    {
+      "path" : "img/homepage/ctw.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1673076131,
+      "checksum" : "37dc4e2643a7b4b2db6a79d597b94e80",
+      "fileSize" : 7794547
+    },
+    {
+      "path" : "php/mail.php",
+      "mimeType" : "text/php",
+      "lastUpdated" : 1468856526,
+      "checksum" : "b88a6e97ab33de12b5153e28bdff8086",
+      "fileSize" : 1544
+    },
+    {
+      "path" : "img/phoenix_fantasy/phx_jerseys.png",
+      "mimeType" : "image/png",
+      "lastUpdated" : 1674212954,
+      "checksum" : "4250b0f645b05438b260d230e534cd41",
+      "fileSize" : 185533
+    },
+    {
+      "path" : "css/style.css",
+      "mimeType" : "text/css",
+      "lastUpdated" : 1685527236,
+      "checksum" : "4de88af4486f970269a268b5e0d9c582",
+      "fileSize" : 60220
+    },
+    {
+      "path" : "img/homepage/bundling_stats.gif",
+      "mimeType" : "image/gif",
+      "lastUpdated" : 1685530196,
+      "checksum" : "7d48569ec7417de3c719d02611551060",
+      "fileSize" : 41210749
+    }
+  ]
+}
